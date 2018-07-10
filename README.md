@@ -1,6 +1,6 @@
 # jar-scan
 
-jar-scan is a tiny open source scripts that automates the process of finding Java classes and artifacts in JAR archives.
+jar-scan is a tiny open source script that automates the process of finding Java classes and artifacts in JAR archives.
 
 **The jar-scan project is sponsored by [CGI](https://www.cgi.com/en).**
 
